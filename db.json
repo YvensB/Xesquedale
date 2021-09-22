@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "jtest@gmail.com",
+      "first_name": "Teste",
+      "last_name": "1",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    },
+    {
+      "id": 2,
+      "email": "aleatorio@gmail.com",
+      "first_name": "Teste",
+      "last_name": "2",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    }
+  ],
+  "profile": {
+    "name": "somecode"
+  }
+}
