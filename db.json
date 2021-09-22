@@ -3,15 +3,15 @@
     {
       "id": 1,
       "email": "Dio@gmail.com",
-      "first_name": "Dio Brando",
-      "last_name": "1",
+      "first_name": "Dio",
+      "last_name": "Brando",
       "avatar": "https://taverna42.files.wordpress.com/2018/09/maxresdefault-1.jpg?w=1280&h=720&crop=1"
     },
     {
       "id": 2,
       "email": "Jotaro@gmail.com",
       "first_name": "Jotaro Joestar",
-      "last_name": "2",
+      "last_name": "Kujo",
       "avatar": "https://ovicio.com.br/wp-content/uploads/2019/01/20190121-jojo-jump-force-555x555.png"
     }
   ],
